@@ -18,7 +18,7 @@
   
 [![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostlai&layout=compact&hide=css,scss,html,makefile,cmake,m4&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 -->
-![Metrics](https://metrics.lecoq.io/Mostlai?template=classic&config.timezone=Asia%2FShanghai)
+<!-- ![Metrics](https://metrics.lecoq.io/Mostlai?template=classic&config.timezone=Asia%2FShanghai) -->
 
 
 <!--
