@@ -5,7 +5,7 @@
 <img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 <img  src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
 <img  src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python" />
-<img  src="https://visitor-badge.glitch.me/badge?page_id=[Github主页地址](https://github.com/Mostlai)&right_color=red" />
+<!-- <img  src="https://visitor-badge.glitch.me/badge?page_id=[Github主页地址](https://github.com/Mostlai)&right_color=red" /> -->
 <a href="mostlai.github.io"><img src="https://img.shields.io/static/v1?label=Blog&message=link&color=red"/></a>
 </p>
 
