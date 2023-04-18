@@ -14,8 +14,8 @@
 <!--代表仓库-->    
 |Status|Some Repositories
 |-|-
-mostlai-status:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostlai&repo=mostlai-status&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/Mostlai/mostlai-status)|Hunred Days:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostlai&repo=Hundred-days&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/Mostlai/Hundred-days)
-mostlai's blog:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostlai&repo=mostlai.github.io&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/Mostlai/mostlai.github.io)|Hunred Days-Wiki:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostlai&repo=HD-WIKI&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/Mostlai/HD-WIKI)
+Mostlai-status:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostlai&repo=mostlai-status&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/Mostlai/mostlai-status)|Hunred Days:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostlai&repo=Hundred-days&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/Mostlai/Hundred-days)
+Mostlai's blog:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostlai&repo=mostlai.github.io&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/Mostlai/mostlai.github.io)|Hunred Days-Wiki:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostlai&repo=HD-WIKI&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/Mostlai/HD-WIKI)
   
 <hr>
 
@@ -25,6 +25,6 @@ mostlai's blog:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pi
 <hr>
 
 <p align="center">
-    <img src="https://moe-counter.glitch.me/get/@andatoshiki:github?theme=rule34">
+    <img src="https://moe-counter.glitch.me/get/@mostlai:github?theme=rule34">
 </p>
 </div>
