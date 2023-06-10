@@ -18,12 +18,12 @@ Mostlai-status:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pi
 Mostlai's blog:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostlai&repo=mostlai.github.io&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/Mostlai/mostlai.github.io)|Hunred Days-Wiki:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mostlai&repo=HD-WIKI&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/Mostlai/HD-WIKI)
   
 <hr>
-
+<!--
 |<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mostlai&hide_title=true&hide_border=true&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />|<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mostlai&hide_title=true&hide_border=true&hide=html&layout=compact&langs_count=6&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000" />  
 |-|-
 
 <hr>
-
+ -->
 <p align="center">
     <img src="https://moe-counter.glitch.me/get/@mostlai:github?theme=rule34">
 </p>
