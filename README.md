@@ -25,6 +25,6 @@ Mostlai's blog:<br>[![Readme Card](https://github-readme-stats.vercel.app/api/pi
 <hr>
  -->
 <p align="center">
-    <img src="https://moe-counter.glitch.me/get/@mostlai:github?theme=rule34">
+    <img src="https://count.getloli.com/@mostlai:github?theme=3d-num">
 </p>
 </div>
